@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning QA Basics @ SoftUni.
 - 🔎 I’m looking to collaborate on QA projects.
 - 📬 You can reach me at emiliya.kirina@gmail.com 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
  
 <!---
