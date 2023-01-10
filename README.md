@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emiliya!
 - 👀 I’m interested in programming with C# and Python and QA testing.
-- 🌱 I’m currently studying Quality Assurance testing (QA) @ SoftUni.
+- 🌱 I’m currently studying Software Quality Assurance (QA) @ SoftUni.
 - 🔎 I’m looking to collaborate on QA projects.
 - 📬 You can reach me at emiliya.kirina@gmail.com 
 
