@@ -3,7 +3,8 @@
 - 🌱 I’m currently studying Software Quality Assurance (QA) @ SoftUni.
 - 🔎 I’m looking to collaborate on QA projects.
 - 📬 You can reach me at emiliya.kirina@gmail.com 
-	
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?EmI-85=anselal)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 EmI-85/EmI-85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
