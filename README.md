@@ -4,6 +4,8 @@
 - 🔎 I’m looking to collaborate on QA projects.
 - 📬 You can reach me at emiliya.kirina@gmail.com 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?EmI-85=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?EmI-85=jasongaylord&langs_count=5&theme=tokyonight)]()
 
  
 <!---
