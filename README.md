@@ -3,10 +3,6 @@
 - 🌱 I’m currently studying Software Quality Assurance (QA) @ SoftUni.
 - 🔎 I’m looking to collaborate on QA projects.
 - 📬 You can reach me at emiliya.kirina@gmail.com 
-
-1 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?EmI-85=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-2 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?EmI-85=jasongaylord&langs_count=5&theme=tokyonight)]()
-
 	
 
 <!---
